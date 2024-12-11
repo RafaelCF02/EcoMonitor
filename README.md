@@ -2,6 +2,9 @@
 
 Dashboard criado para monitorar gastos e receitas, apresentando uma tabela detalhada e gráficos sobre a economia, com foco no atingimento de metas financeiras.  
 
+![image](https://github.com/user-attachments/assets/42aa0069-29c8-4209-b569-610ac76dc3bd)
+
+
 ## **📊 Recursos do Dashboard**  
 - **Tabela de Gastos e Recebimentos**: Monitora transações financeiras organizadas por data, tipo, categoria, e status.  
 - **Gráfico de Economia**: Visualiza o progresso em relação à meta financeira definida.  
